@@ -5,7 +5,9 @@ YouTube video of software in action: https://youtu.be/JwvPWb7sDqk
 
 
 If you would like to donate you can at:
+https://ko-fi.com/project_sbc
 
-https://www.paypal.com/paypalme/my/profile
+paypal.me/projectsbc
 
+This program is provided as is, for personal use only. By using it you accept any risks and responsibilities associated with its use. 
 
