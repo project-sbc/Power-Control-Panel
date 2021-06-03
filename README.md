@@ -7,7 +7,7 @@ YouTube video of software in action: https://youtu.be/JwvPWb7sDqk
 If you would like to donate you can at:
 https://ko-fi.com/project_sbc
 
-HTTPS://paypal.me/projectsbc
+https://www.paypal.com/donate?business=NQFQSSJBTTYY4&currency_code=USD
 
 
 
