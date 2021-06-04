@@ -3,7 +3,25 @@
 Download the latest version 0.1.7 here: https://github.com/project-sbc/Power-Control-Panel/releases
 
 
-This software allows easy change of TDP on windows handheld devices. Features include: configurable profiles with charger vs battery values and xinput TDP change capability.
+This software allows easy change of TDP on windows handheld devices. 
+Features include: 
+-configurable profiles with charger vs battery values
+-xinput TDP change capability (hold LB RB and a dpad direction)
+-assign an exe to a profile to auto start when exe opens
+-auto startup at logon to system tray 
+-touch friendly interface, keyboard (mostly) not required
+
+Supported CPUs are limited to intel such as tiger lake, ice lake, kaby lake
+AMD support coming soon!!!!
+
+Devices this is great for:
+GPD win 3
+Gpd win max
+Gpd win 2
+One netbook 1gx/pro
+One netbook one mix 3/4
+One netbook one x player
+
 
 YouTube video of software in action: https://youtu.be/JwvPWb7sDqk
 
