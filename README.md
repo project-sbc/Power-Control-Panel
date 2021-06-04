@@ -1,4 +1,8 @@
 # Power-Control-Panel
+
+Download the latest version 0.1.7 here: https://github.com/project-sbc/Power-Control-Panel/releases
+
+
 This software allows easy change of TDP on windows handheld devices. Features include: configurable profiles with charger vs battery values and xinput TDP change capability.
 
 YouTube video of software in action: https://youtu.be/JwvPWb7sDqk
