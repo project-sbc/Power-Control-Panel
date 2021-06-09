@@ -1,6 +1,6 @@
 # Power-Control-Panel
 
-Download the latest version 0.1.9 here: https://github.com/project-sbc/Power-Control-Panel/releases
+Download the latest version 0.2.0 here: https://github.com/project-sbc/Power-Control-Panel/releases
 
 
 This software allows easy change of TDP on windows handheld devices. 
@@ -11,8 +11,8 @@ Features include:
 -auto startup at logon to system tray 
 -touch friendly interface, keyboard (mostly) not required
 
-Supported CPUs are limited to intel such as tiger lake, ice lake, kaby lake
-AMD support coming soon!!!!
+Supported CPUs include intel tiger lake, ice lake, kaby lake and 
+AMD now supported!!!!
 
 Devices this is great for:
 GPD win 3
@@ -21,6 +21,7 @@ Gpd win 2
 One netbook 1gx/pro
 One netbook one mix 3/4
 One netbook one x player
+Aya Neo
 
 
 YouTube video of software in action: https://youtu.be/JwvPWb7sDqk
