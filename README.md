@@ -1,6 +1,6 @@
 # Power-Control-Panel
 
-Download the latest version 0.2.0 here: https://github.com/project-sbc/Power-Control-Panel/releases
+Download the latest version 0.2.5 here: https://github.com/project-sbc/Power-Control-Panel/releases
 
 
 This software allows easy change of TDP on windows handheld devices. 
@@ -41,6 +41,8 @@ You can find it under users - your username - appdata - local - power_control_ap
 2. Computer crashes when changing TDP - next time you open the software it will alert you it crashed and take you to the settings tab. Adjust the RW Delay value to a high value like 1500 and try it again. This sets the delay reading and writing to the registry. Some devices can handle 200 ms, others are sensitive and need over 1000 ms.
 
 3. Values don't save when I reopen the program - same thing as 1, delete the config file!
+
+4. I updated windows and now the program doesn't work - .net 5.0 can be removed when doing some update, redownload and install .net 5.0 
 
 This program is provided as is, for personal use only. By using it you accept any risks and responsibilities associated with its use. 
 
