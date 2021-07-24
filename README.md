@@ -2,6 +2,8 @@
 
 Download the latest version 0.2.5 here: https://github.com/project-sbc/Power-Control-Panel/releases
 
+Requires .net 5.0 desktop runtime, download here
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.8-windows-x64-installer
 
 This software allows easy change of TDP on windows handheld devices. 
 Features include: 
