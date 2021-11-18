@@ -1,4 +1,5 @@
 # Power-Control-Panel
+Preview of upcoming release: Power Control App Update - 0.3.0 Is Almost Here!
 
 Download the latest version 0.2.6 here: https://github.com/project-sbc/Power-Control-Panel/releases
 
