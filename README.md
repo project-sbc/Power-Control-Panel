@@ -47,5 +47,7 @@ You can find it under users - your username - appdata - local - power_control_ap
 
 4. I updated windows and now the program doesn't work - .net 5.0 can be removed when doing some update, redownload and install .net 5.0 
 
+5. I installed .net 5.0 but it keeps asking me to install it - there is more than one version, you downloaded the command line interface version. Download the x64 desktop application version. Link provided above.
+
 This program is provided as is, for personal use only. By using it you accept any risks and responsibilities associated with its use. 
 
