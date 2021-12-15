@@ -1,4 +1,7 @@
 # Power-Control-Panel
+
+Sign up for updates and beta releases here! If anyone is interested in signing up for updates on power control panel sign up here! https://mailchi.mp/2cb37a3d43bd/power-control-panel-signup
+
 Preview of upcoming release: Power Control App Update - 0.3.0 Is Almost Here!
 
 Download the latest version 0.2.6 here: https://github.com/project-sbc/Power-Control-Panel/releases
