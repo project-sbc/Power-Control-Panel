@@ -1,8 +1,7 @@
-# Power-Control-Panel
-
-New restructured version is here!! https://github.com/project-sbc/Power-Control-Panel-v2
+# New restructured version is here!! https://github.com/project-sbc/Power-Control-Panel-v2 
 its a work in progress
 
+# Power-Control-Panel
 Now supports Steam Deck!!!!!
 
 Sign up for updates and beta releases here! If anyone is interested in signing up for updates on power control panel sign up here! https://mailchi.mp/2cb37a3d43bd/power-control-panel-signup
